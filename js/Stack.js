@@ -48,3 +48,4 @@ class Stack {
 // const stack = new Stack(5, 1, 27);
 // console.log(stack);
 // stack.push(7);
+// console.log(stack.pick());
